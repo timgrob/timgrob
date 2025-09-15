@@ -5,6 +5,13 @@
 - 👯 I’m looking to collaborate on any interesting projects
 - 🤔 I’m looking for help with DeFi implementations
 - 💬 Ask me about Python
+- 📫 How to reach me: www.timgrob.ch
+
+### 📊 GitHub Stats
+
+![Tim Grob's GitHub stats](https://github-readme-stats.vercel.app/api?username=timgrob&show_icons=true&theme=default)
+
+
 <!--
 **timgrob/timgrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
