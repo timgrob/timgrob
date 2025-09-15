@@ -14,6 +14,12 @@
 ### 🧑‍💻 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timgrob&layout=compact&theme=tokyonight)
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=timgrob&theme=tokyonight)
+
+
 <!--
 **timgrob/timgrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
