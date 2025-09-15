@@ -9,9 +9,11 @@
 
 ### 📊 GitHub Stats
 
-![Tim Grob's GitHub stats](https://github-readme-stats.vercel.app/api?username=timgrob&show_icons=true&theme=default)
+![Tim Grob's GitHub stats](https://github-readme-stats.vercel.app/api?username=timgrob&show_icons=true&theme=default&theme=tokyonight)
 
+### 🧑‍💻 Top Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timgrob&layout=compact&theme=tokyonight)
 <!--
 **timgrob/timgrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
