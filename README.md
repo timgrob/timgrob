@@ -9,7 +9,7 @@
 
 ### 📊 GitHub Stats
 
-![Tim Grob's GitHub stats](https://github-readme-stats.vercel.app/api?username=timgrob&show_icons=true&theme=default&theme=tokyonight)
+![Tim Grob's GitHub stats](https://github-readme-stats.vercel.app/api?username=timgrob&show_icons=true&theme=tokyonight)
 
 ### 🧑‍💻 Top Languages
 
