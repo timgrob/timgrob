@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with DeFi implementations
 - 💬 Ask me about Python
 - 📫 How to reach me: www.timgrob.ch
+- ⚡ Fun fact: My PhD thesis is massive and thus LaTeX dominates my "Top Languages" statistics
 
 ### 🧑‍💻 Top Languages
 
