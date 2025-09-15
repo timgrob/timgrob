@@ -7,13 +7,15 @@
 - 💬 Ask me about Python
 - 📫 How to reach me: www.timgrob.ch
 
+### 🧑‍💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timgrob&layout=compact&theme=tokyonight)
+
+
 ### 📊 GitHub Stats
 
 ![Tim Grob's GitHub stats](https://github-readme-stats.vercel.app/api?username=timgrob&show_icons=true&theme=tokyonight)
 
-### 🧑‍💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timgrob&layout=compact&theme=tokyonight)
 
 ### 🔥 Streak Stats
 
